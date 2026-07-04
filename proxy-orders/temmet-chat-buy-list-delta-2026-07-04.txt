@@ -1,0 +1,56 @@
+# Temmet / Eternal Might chat buy list delta
+# Created from cards discussed in ChatGPT chat on 2026-07-04.
+# These were not present in proxy-orders/mpcfill-master-buy-list.txt at the time of creation.
+
+# Strong / must-buy additions discussed
+1 Bloodline Bidding
+1 Lord of the Undead
+1 Warren Soultrader
+1 Relentless Dead
+1 Sidisi, Undead Vizier
+1 Wilhelt, the Rotcleaver
+1 Hordewing Skaab
+1 Stitcher's Supplier
+1 Undead Butler
+1 Invasion of Amonkhet
+1 Tomb Tyrant
+1 Apprentice Necromancer
+1 Shepherd of Rot
+1 Reanimate
+1 Virtue of Persistence
+1 Rise of the Dark Realms
+1 Stitch Together
+1 Quantum Entanglement
+1 Geralf, Visionary Stitcher
+
+# Other interesting / lower-confidence additions from the chat
+1 Persistent Constrictor
+1 Vogar, Necropolis Tyrant
+1 Calculating Lich
+1 Geralf's Mindcrusher
+1 Necromancer's Assistant
+1 Armored Skaab
+1 Screeching Skaab
+1 Sidisi, Regent of the Mire
+1 Soulless One
+1 Planar Birth
+1 Flicker
+1 Exhume
+1 Footsteps of the Goryo
+1 Behold the Sinister Six!
+1 Restoration Seminar
+1 Living End
+1 Pontiff of Blight
+1 Grasping Tentacles
+1 Court of Ardenvale
+1 The Peregrine Dynamo
+1 Copycrook
+1 Endless Ranks of the Dead
+
+# Discussed but intentionally not added here
+# Emrakul, the World Anew -- passed as not synergistic with this build.
+# Jin-Gitaxias, Core Augur -- discussed as powerful/mean, but not explicitly marked as buy.
+# Elesh Norn, Mother of Machines -- already present in master list.
+# Bone Miser -- already present in master list.
+# Mikaeus, the Unhallowed -- already present in master list.
+# Undead Warchief -- already present in master list.
