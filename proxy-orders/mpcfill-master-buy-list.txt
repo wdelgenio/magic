@@ -1,0 +1,273 @@
+# MPCFill Master Proxy Buy List
+# One card per line with quantities. Includes Arcades/Defender toolbox, Temmet/Eternal Might zombie toolbox, lands, staples, and extras discussed.
+
+1 Arcades, the Strategist
+1 Temmet, Naktamun's Will
+
+# Extra copies / reusable staples
+3 Spark Double
+2 Sol Ring
+2 Arcane Signet
+2 Thought Vessel
+2 Lightning Greaves
+2 Swiftfoot Boots
+2 Heroic Intervention
+2 Clever Concealment
+2 Swords to Plowshares
+2 Path to Exile
+2 Beast Within
+2 Cryptolith Rite
+2 Beast Whisperer
+2 Guardian Project
+
+# Arcades / Defender core and toolbox
+1 High Alert
+1 Assault Formation
+1 Huatli, the Sun's Heart
+1 Baldin, Century Herdmaster
+1 Tapestry Warden
+1 Bark of Doran
+1 Axebane Guardian
+1 Overgrown Battlement
+1 Sylvan Caryatid
+1 Saruli Caretaker
+1 Vine Trellis
+1 Shield-Wall Sentinel
+1 Shield Sphere
+1 Wall of Omens
+1 Wall of Blossoms
+1 Wall of Denial
+1 Wall of Frost
+1 Wall of Nets
+1 Wall of Tears
+1 Wall of Runes
+1 Wall of Tanglecord
+1 Wall of Reverence
+1 Wall of Hope
+1 Wall of Vines
+1 Wall of Stolen Identity
+1 The Walls of Ba Sing Se
+1 The Pride of Hull Clade
+1 Perimeter Captain
+1 Stalwart Shield-Bearers
+1 Crashing Drawbridge
+1 Walking Bulwark
+1 Sunscape Familiar
+1 Crystal Barricade
+1 Rune-Sealed Wall
+1 Excavated Wall
+1 Steel Wall
+1 Riptide Turtle
+1 Murmuring Phantasm
+1 Fortified Rampart
+1 Giant Ox
+1 Thallid Shell-Dweller
+1 Gatecreeper Vine
+1 Carven Caryatid
+1 Portcullis Vine
+1 Jaddi Offshoot
+1 Pride Guardian
+1 Dragon's Eye Sentry
+1 Drift of Phantasms
+1 Kaijin of the Vanishing Touch
+1 Angelic Wall
+1 Hover Barrier
+1 Glacial Wall
+1 Suspicious Bookcase
+1 Towering Viewpoint
+1 Canopy Gargantuan
+1 Fecund Greenshell
+1 Fathom Mage
+1 Gyre Sage
+1 Aura Shards
+1 Brave the Sands
+1 Tower Defense
+1 Unnatural Growth
+1 Tribute to the World Tree
+1 Cathars' Crusade
+1 Angelic Chorus
+1 Fruit of the First Tree
+1 Last March of the Ents
+1 The Great Henge
+1 True Conviction
+1 Duelist's Heritage
+1 Zopandrel, Hunger Dominus
+1 Bar the Door
+1 Solidarity of Heroes
+1 Meekstone
+1 Marble Titan
+1 Dusk // Dawn
+1 Teferi's Protection
+1 Flawless Maneuver
+1 Ghostway
+1 Eerie Interlude
+1 Semester's End
+1 Hot Soup
+1 Aqueous Form
+1 Dryad's Favor
+1 Whispersilk Cloak
+1 Assault Suit
+1 Phantasmal Image
+1 Clever Impersonator
+1 Progenitor Mimic
+1 Stunt Double
+1 Clone
+1 Mirrorhall Mimic
+1 Phyrexian Metamorph
+1 Urza's Incubator
+1 Herald's Horn
+1 Emerald Medallion
+1 Cloud Key
+1 Semblance Anvil
+1 Gaea's Cradle
+1 Yavimaya, Cradle of Growth
+1 Cavern of Souls
+1 Ancient Tomb
+1 Nykthos, Shrine to Nyx
+1 The World Tree
+1 Access Tunnel
+1 Rogue's Passage
+1 Maze of Ith
+1 Reliquary Tower
+1 Command Tower
+1 Exotic Orchard
+1 Path of Ancestry
+1 Reflecting Pool
+1 Spara's Headquarters
+1 Breeding Pool
+1 Hallowed Fountain
+1 Temple Garden
+1 Flooded Strand
+1 Misty Rainforest
+1 Windswept Heath
+1 Sea of Clouds
+1 Rejuvenating Springs
+1 Bountiful Promenade
+1 Yavimaya Coast
+1 Brushland
+1 Adarkar Wastes
+1 Glacial Fortress
+1 Hinterland Harbor
+1 Sunpetal Grove
+1 Boseiju, Who Endures
+1 Otawara, Soaring City
+1 Eiganjo, Seat of the Empire
+1 Nature's Cloak
+1 Hidden Path
+1 Lumbering Satyr
+1 Brawn
+1 Wonder
+1 Valor
+1 Genesis
+1 Fauna Shaman
+1 Survival of the Fittest
+1 Chromatic Lantern
+1 Talisman of Progress
+1 Azorius Signet
+1 Grand Arbiter Augustin IV
+1 Avacyn, Angel of Hope
+
+# Temmet / Eternal Might / Esper Zombie toolbox
+1 Phyrexian Altar
+1 Ashnod's Altar
+1 Carrion Feeder
+1 Rooftop Storm
+1 Diabolic Intent
+1 Entomb
+1 Living Death
+1 Patriarch's Bidding
+1 Phyrexian Reclamation
+1 Gray Merchant of Asphodel
+1 Cleaver Skaab
+1 Havengul Lich
+1 Gisa and Geralf
+1 Zul Ashur, Lich Lord
+1 Ratadrabik of Urborg
+1 Panharmonicon
+1 Elesh Norn, Mother of Machines
+1 Mirror Room // Fractured Realm
+1 Roaming Throne
+1 Krang, the All-Powerful
+1 Starfield Vocalist
+1 Teysa Karlov
+1 Drivnod, Carnage Dominus
+1 Vohar, Vodalian Desecrator
+1 Deadly Plot
+1 Wake the Dead
+1 Animate Dead
+1 Necromancy
+1 Death Baron
+1 Diregraf Colossus
+1 Headless Rider
+1 Undead Warchief
+1 Cemetery Reaper
+1 Lord of the Accursed
+1 Undead Augur
+1 Corpse Augur
+1 Corpse Knight
+1 Champion of Wits
+1 The Scarab God
+1 God-Eternal Oketra
+1 Gravecrawler
+1 Lurrus of the Dream-Den
+1 Anti-Venom, Horrifying Healer
+1 Arcade Gannon
+1 Abhorrent Oculus
+1 Wondrous Crucible
+1 Will of the Abzan
+1 Wail of the Forgotten
+1 Crawl from the Cellar
+1 Cemetery Recruitment
+1 Chill of the Grave
+1 Call to the Grave
+1 Abstract Performance
+1 Afterlife from the Loam
+1 Army of the Damned
+1 Bone Miser
+1 Cursecloth Wrappings
+1 The Sibsig Ceremony
+1 Brainstorm
+1 Frantic Search
+1 Mystic Remora
+1 Esper Sentinel
+1 Phyrexian Arena
+1 Rhystic Study
+1 Smothering Tithe
+1 Opposition Agent
+1 Cyclonic Rift
+1 The One Ring
+1 Demonic Tutor
+1 Vampiric Tutor
+1 Mystical Tutor
+1 Necropotence
+1 Phyrexian Tower
+1 Urborg, Tomb of Yawgmoth
+1 Cabal Coffers
+1 Crypt Ghast
+1 Jet Medallion
+1 Expedition Map
+1 Black Market Connections
+1 Feign Death
+1 Undying Evil
+1 Supernatural Stamina
+1 Lier, Disciple of the Drowned
+1 Malakir Rebirth // Malakir Mire
+1 Virtue of Knowledge
+1 Gift of Immortality
+1 Revel in Riches
+1 Will the Wise
+1 Wernog, Rider's Chaplain
+1 Pitiless Plunderer
+1 Mikaeus, the Unhallowed
+1 Cauldron of Souls
+1 Dimir Signet
+1 Orzhov Signet
+1 Talisman of Dominance
+1 Talisman of Hierarchy
+1 Azorius Signet
+
+# Bulk basics for proxy order
+20 Forest
+20 Island
+20 Plains
+20 Swamp
