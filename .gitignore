@@ -1,0 +1,9 @@
+# SQLite runtime sidecars
+/data/*.sqlite-*
+
+# Python local artifacts
+__pycache__/
+*.py[cod]
+
+# Node dependencies
+/node_modules/

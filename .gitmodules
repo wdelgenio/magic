@@ -1,0 +1,3 @@
+[submodule "rules/mtg-rules"]
+	path = rules/mtg-rules
+	url = https://github.com/chaoticgoodcomputing/mtg-rules.git
