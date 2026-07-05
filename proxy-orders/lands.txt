@@ -1,12 +1,9 @@
 Proxy Land Package
 
 # Bant / Arcades
-1 Gaea's Cradle
 1 Yavimaya, Cradle of Growth
 1 Cavern of Souls
-1 Ancient Tomb
 1 Nykthos, Shrine to Nyx
-1 The World Tree
 1 Access Tunnel
 1 Rogue's Passage
 1 Maze of Ith

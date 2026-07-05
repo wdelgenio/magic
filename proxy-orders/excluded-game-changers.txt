@@ -1,0 +1,23 @@
+Excluded Game Changers
+
+# Removed from proxy-order/deck files so these do not get ordered by accident.
+# Source: local AtomicCards.json / MTGJSON raw field isGameChanger=true.
+
+1 Ancient Tomb
+1 Aura Shards
+1 Cyclonic Rift
+1 Demonic Tutor
+1 Gaea's Cradle
+1 Grand Arbiter Augustin IV
+1 Mystical Tutor
+1 Necropotence
+1 Opposition Agent
+1 Rhystic Study
+1 Smothering Tithe
+1 Survival of the Fittest
+1 Teferi's Protection
+1 The One Ring
+1 Vampiric Tutor
+
+# Not a Game Changer, but removed from Bant / Arcades ordering because it is not legal in Arcades' color identity.
+1 The World Tree

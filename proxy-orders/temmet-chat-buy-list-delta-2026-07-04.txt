@@ -32,6 +32,61 @@
 1 Stitch Together
 1 Quantum Entanglement
 1 Geralf, Visionary Stitcher
+1 Animate Dead
+1 Victimize
+1 Necromancy
+1 Oversold Cemetery
+1 Altar of Bhaal // Bone Offering
+1 Lich-Knights' Conquest
+1 Agadeem's Awakening // Agadeem, the Undercrypt
+1 Sun Titan
+1 Dread Return
+1 Tortured Existence
+1 Altar of Dementia
+1 Noxious Ghoul
+1 Diregraf Captain
+1 Diregraf Colossus
+1 Cathars' Crusade
+1 Champion of the Perished
+1 Thran Vigil
+1 Bloodline Pretender
+1 Black Market
+1 Blade of the Bloodchief
+1 Sadistic Glee
+1 Skullclamp
+1 Secrets of the Dead
+1 Species Specialist
+1 Liliana, Dreadhorde General
+1 Pitiless Plunderer
+1 Carnival of Souls
+1 Pawn of Ulamog
+1 Sifter of Skulls
+1 Crypt of Agadeem
+1 Songs of the Damned
+1 Cabal Ritual
+1 Black Market Connections
+1 Urza's Incubator
+1 Herald's Horn
+1 Dark Ritual
+1 Patchwork Banner
+1 Dimir Aqueduct
+1 Azorius Chancery
+1 Lake of the Dead
+1 Crystal Vein
+1 Guildless Commons
+1 Tree of Perdition
+1 Vohar, Vodalian Desecrator
+1 Merfolk Looter
+1 Looter il-Kor
+1 Tainted Indulgence
+1 Faithful Mending
+1 Frantic Search
+1 Unfulfilled Desires
+1 Bone Miser
+1 Ashiok, Sculptor of Fears
+1 Kaya, Geist Hunter
+1 Ashiok, Nightmare Weaver
+1 Kaya, Ghost Assassin
 
 # Other interesting / lower-confidence additions from the chat
 1 Persistent Constrictor
@@ -56,6 +111,14 @@
 1 The Peregrine Dynamo
 1 Copycrook
 1 Endless Ranks of the Dead
+1 Tarrian's Journal // The Tomb of Aclazotz
+1 Pull from Eternity
+1 Kaya's Ghostform
+1 Ashnod's Intervention
+1 Athreos, Shroud-Veiled
+1 Kaya the Inexorable
+1 Transmogrant Altar
+1 Case of the Uneaten Feast
 
 # Discussed but intentionally not added here
 # Emrakul, the World Anew -- passed as not synergistic with this build.

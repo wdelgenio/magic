@@ -42,12 +42,8 @@ Proxy Quantity Notes
 1 Starfield Vocalist
 1 Teysa Karlov
 1 Drivnod, Carnage Dominus
-1 Gaea's Cradle
-1 Survival of the Fittest
-1 Smothering Tithe
 1 Mystic Remora
 1 Esper Sentinel
-1 Rhystic Study
 1 Phyrexian Tower
 1 Urborg, Tomb of Yawgmoth
 1 Cabal Coffers

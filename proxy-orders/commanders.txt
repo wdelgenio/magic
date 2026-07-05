@@ -10,7 +10,6 @@ Commander / Commander-Adjacent Proxy List
 1 Teysa Karlov
 1 Drivnod, Carnage Dominus
 1 Elesh Norn, Mother of Machines
-1 Grand Arbiter Augustin IV
 1 Trostani, Selesnya's Voice
 1 Huatli, the Sun's Heart
 1 Baldin, Century Herdmaster
