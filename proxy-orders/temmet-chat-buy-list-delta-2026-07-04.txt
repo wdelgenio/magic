@@ -10,6 +10,16 @@
 1 Sidisi, Undead Vizier
 1 Wilhelt, the Rotcleaver
 1 Hordewing Skaab
+1 Necroduality
+1 Kindred Discovery
+1 Nim Deathmantle
+1 Grim Reaper's Scythe
+1 God-Pharaoh's Gift
+1 Cursecloth Wrappings
+1 Grimoire of the Dead
+1 On Wings of Gold
+1 Tombstone Stairwell
+1 Fell Stinger
 1 Stitcher's Supplier
 1 Undead Butler
 1 Invasion of Amonkhet
