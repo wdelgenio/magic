@@ -21,3 +21,4 @@ Excluded Game Changers
 
 # Not a Game Changer, but removed from Bant / Arcades ordering because it is not legal in Arcades' color identity.
 1 The World Tree
+1 Tree of Perdition
